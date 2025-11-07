@@ -7,7 +7,7 @@ This project segments customers into groups based on their electricity usage pat
 
 **Model Building** – Used an elbow plot to determine the optimal number of customer segments and applied K-Means clustering to group customers
 
-**Segment Analysi** – Explored characteristics of each group to understand usage behavior
+**Segment Analysis** – Explored characteristics of each group to understand usage behavior
 
 **Channel Effectiveness** – Evaluated which communication channels (mail, email, or text) are most effective for each segment
 
